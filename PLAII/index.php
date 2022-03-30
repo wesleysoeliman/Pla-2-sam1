@@ -1,5 +1,7 @@
 <!doctype html>
 <html class="no-js" lang="">
+<?php require_once ('header.php'); 
+?>
 
 <head>
   <meta charset="utf-8">
