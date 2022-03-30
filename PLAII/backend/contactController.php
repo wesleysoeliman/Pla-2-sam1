@@ -10,3 +10,4 @@ file_put_contents('../contactverzoek.txt', $name . ", " . "$email" . " - " . $me
 
 $msg = 'Thank you for your message';
 header("location: ../index.php?msg=$msg");
+?>
