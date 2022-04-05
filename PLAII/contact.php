@@ -4,14 +4,14 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Document</title>
-	<link rel="stylesheet" href="css/style.css">
+	<link rel="stylesheet" href="css/normalize.css">
+  	<link rel="stylesheet" href="css/main.css">
 </head>
 <body>
-
-	
-	<div class="form">
+	<div class="formh2">
 		<h2>Contactformulier</h2>
-
+	</div>
+	<div class="form">
 		<?php 
 		if(isset($_GET['msg'])){
 			echo $_GET['msg'];

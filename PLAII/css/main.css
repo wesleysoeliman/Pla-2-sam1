@@ -11,6 +11,41 @@
    Base styles: opinionated defaults
    ========================================================================== */
 
+.form{
+  width: 1080px;
+  margin: 0 auto;
+  padding-bottom: 150px;
+  background: yellow;
+  display: flex;
+  justify-content: center;
+}
+
+.form{
+  font-size: 20px;
+}
+
+.formh2{
+  font-size: 25px;
+  width: 1080px;
+  margin: 0 auto;
+  padding-top: 150px;
+  background: yellow;
+  display: flex;
+  justify-content: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 html {
   color: #222;
   font-size: 1em;
