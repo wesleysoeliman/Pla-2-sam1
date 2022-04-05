@@ -1,12 +1,11 @@
 <?php
-
-$lastName = $_POST['lastName'];
+$
+$titel = $_POST['titel'];
+$firstName = $_POST['naam'];
 $email = $_POST['email'];
 $message = $_POST['message'];
 
-$straatnaam = $_POST['straatnaam'];
-
-file_put_contents('../contactverzoek.txt', $name . ", " . "$email" . " - " . $message, FILE_APPEND);
+file_put_contents('../contactverzoek.txt', "$titel" . "," . "$firstName" . ", " . "$email" . "," . "$message", FILE_APPEND);
 
 $msg = 'Thank you for your message';
 header("location: ../index.php?msg=$msg");

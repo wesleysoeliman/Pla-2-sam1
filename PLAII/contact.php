@@ -19,25 +19,24 @@
 		?>
 		<form action="backend/contactController.php" method="post">
 			<div class="form-group">
-				<label for="lastName">Achternaam:</label>
-				<input type="text" name="lastName">
+				<label for="titel">Titel:</label>
+				<input id="titel" type="text" name="titel">
 			</div>
 
 
 			<div class="form-group">
-			<label for="straatnaam">Straatnaam:</label>
-			<input id="straatnaam" type="text" name="straatnaam">
+				<label for="message">Inhoud:</label>
+				<textarea name="message" id="message" cols="30" rows="10"></textarea>
 			</div>
 
+			<div class="form-group">
+				<label for="naam">Naam:</label>
+				<input id="naam" type="text" name="naam">
+			</div>
 
 			<div class="form-group">
 				<label for="email">E-mail:</label>
 				<input id="email" type="email" name="email" placeholder="test@gmail.com">
-			</div>
-
-			<div class="form-group">
-				<label for="message">Uw boodschap:</label>
-				<textarea name="message" id="message" cols="30" rows="10"></textarea>
 			</div>
 			
 			<div class="form-group">
