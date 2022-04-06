@@ -35,10 +35,6 @@
 
 </main>
 <section>
-  <p>dit ducky ducky is alleen red hem voor 1 euro per maand</p>
-  <p>dit ducky ducky is alleen red hem voor 1 euro per maand</p>
-  <p>dit ducky ducky is alleen red hem voor 1 euro per maand</p>
-  <p>dit ducky ducky is alleen red hem voor 1 euro per maand</p>
 
 
 
