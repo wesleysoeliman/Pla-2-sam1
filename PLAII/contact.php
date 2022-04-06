@@ -10,12 +10,12 @@
 <body>
 	<div class="formh2">
 		<h2>Contactformulier</h2>
-	</div>
+	</div> 
 	<div class="form">
 		<?php 
 		if(isset($_GET['msg'])){
 			echo $_GET['msg'];
-		}
+		} 
 		?>
 		<form action="backend/contactController.php" method="post">
 			<div class="form-group">

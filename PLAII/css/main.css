@@ -130,6 +130,9 @@ textarea {
   justify-content: space-around;
 }
 
+.form-group{
+  background-color: blueviolet;
+}
 nav{
   text-align: center;
   text-decoration: none;
