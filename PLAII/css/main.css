@@ -142,7 +142,13 @@ button{
 
 body{
   height: 300px;
-  background-color: aquamarine;
+  background-image: url("../img/R.jpg");
+
+}
+h1{
+  background-color: darkblue;
+  border-radius: 25px;
+  border: solid yellow 5px;
 }
 
 /* ==========================================================================
