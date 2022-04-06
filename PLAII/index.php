@@ -28,6 +28,22 @@
 
 <body>
 
+<main>
+<h1><marquee behavior="scroll" direction="left" scrollamount="20">welkom bij attractiewebsitenaam</marquee></h1>
+<h1><marquee behavior="scroll" direction="right" scrollamount="20"> neem gerust een kijkje op de website</marquee>
+</h1>  
+
+</main>
+<section>
+  <p>dit ducky ducky is alleen red hem voor 1 euro per maand</p>
+  <p>dit ducky ducky is alleen red hem voor 1 euro per maand</p>
+  <p>dit ducky ducky is alleen red hem voor 1 euro per maand</p>
+  <p>dit ducky ducky is alleen red hem voor 1 euro per maand</p>
+
+
+
+
+</section>
 
   <!-- Add your site or application content here -->
   
