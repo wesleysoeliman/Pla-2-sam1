@@ -171,6 +171,20 @@ h1{
   border: solid cyan 20px;
 }
 
+footer{
+  background: darkblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: yellow;
+  font-weight: bold;
+  margin: 0 auto;
+  padding: 0 auto;
+}
+footer p{
+  margin-right: 50px;
+}
+
 /* ==========================================================================
    Helper classes
    ========================================================================== */
