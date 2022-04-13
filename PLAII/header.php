@@ -1,5 +1,8 @@
+<head>
+  <link rel="stylesheet" href="css/main.css">
+</head>
 <nav>
-  <link rel="stylesheet" href="../css/main.css">
+  
   <h1>wesley napoleon</h1>
   <div class="header">
   

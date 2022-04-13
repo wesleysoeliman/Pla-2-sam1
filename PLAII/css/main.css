@@ -145,7 +145,7 @@ button{
 
 body{
   height: 300px;
-  background-image: url("../img/R.jpg");
+  background-image: url("../img/rollercoaster-3.jpg");
 
 }
 h1{
@@ -163,12 +163,16 @@ main{
 
 }
 section{
-  background-image: url(../img/r.jpg);
-  height: 400px;
+ 
 }
 h1{
   color: yellow;
   border: solid cyan 20px;
+}
+h2{
+  background-color: blueviolet;
+  border: solid cyan 30px;
+  border-radius: 25px;
 }
 
 footer{
