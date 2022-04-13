@@ -144,12 +144,11 @@ button{
 }
 
 body{
-  height: 300px;
-<<<<<<< Updated upstream
-  background-image: url("../img/rollercoaster-3.jpg");
-=======
+  
+
+
   background-image: url("../img/coaster.png");
->>>>>>> Stashed changes
+
 
 }
 h1{
