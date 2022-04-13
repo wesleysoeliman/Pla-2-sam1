@@ -123,7 +123,7 @@ textarea {
    ========================================================================== */
 .header{
   border-radius: 25px;
-  background-color: yellow;
+  background-color: darkblue;
   border: solid darkblue 5px;
   height: 100px;
   display: flex;
