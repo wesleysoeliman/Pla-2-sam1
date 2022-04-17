@@ -123,7 +123,7 @@ textarea {
    ========================================================================== */
 .header{
   border-radius: 25px;
-  background-color: darkblue;
+  background-color: #ffcc00;
   border: solid darkblue 5px;
   height: 100px;
   display: flex;
@@ -144,12 +144,10 @@ button{
 }
 
 body{
-  height: 300px;
-<<<<<<< Updated upstream
   background-image: url("../img/rollercoaster-3.jpg");
-=======
-  background-image: url("../img/coaster.png");
->>>>>>> Stashed changes
+  background-repeat: no-repeat;
+  
+
 
 }
 h1{
@@ -167,11 +165,7 @@ main{
 
 }
 section{
-<<<<<<< Updated upstream
- 
-=======
 
->>>>>>> Stashed changes
 }
 h1{
   color: yellow;
